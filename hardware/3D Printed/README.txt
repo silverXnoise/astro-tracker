@@ -1,0 +1,1 @@
+Gen 3 HD Astro Tracker by baokhangnn on Thingiverse: https://www.thingiverse.com/thing:5847800
