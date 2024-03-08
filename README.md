@@ -75,7 +75,7 @@ Drive the stepper motor at 8.0 rpm. There are plenty of example code for the ste
 
 To use the included test code, download and install the `AccelStepper` library into the Arduino programming environment. Then load the TestCode2.ino on to the Arduino. I modded someone else's code to work with my tracker.You can update the code to run at 8RPM as Etaloche pointed out the earth spins a little faster than 24hour to be more accurate!
 
-```arduino
+```cpp
  #include<AccelStepper.h>
  #define HALFSTEP 8
  #define motorPin1 4 // IN1 on the ULN2003 driver 1
